@@ -1,6 +1,6 @@
 [
     {
-        "mat": 1,
+        "mat": "A",
         "players": [
             {
                 "category":"青少年組",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "mat": 2,
+        "mat": "B",
         "players": [
             {
                 "category":"成人組",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "mat": 3,
+        "mat": "C",
         "players": [
             {
                 "category":"學校組",

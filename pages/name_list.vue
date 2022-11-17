@@ -1,6 +1,6 @@
 <template>
   <div class="text-center text-gray-800 py-5 px-6 ">
-    <h1 class="text-5xl font-bold mt-0 mb-6">出場順序</h1>
+    <h1 class="text-5xl font-bold mt-0 mb-6">{{$t('title',{developer:"aaa"})}}</h1>
   </div>
   <div class="flex flex-wrap">
     <div class="w-full">
