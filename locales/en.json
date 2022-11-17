@@ -1,4 +1,5 @@
 {
-   "hello": "en hello, {name}!",
-   "language": "lang en"
+   "mat": "Mat",
+   "white": "White",
+   "blue":"Blue"
 }      
